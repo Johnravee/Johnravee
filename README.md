@@ -1,9 +1,10 @@
 
-
+<h1>👋 Hi there my name is Johnrave</h1>
+<p>I am an information Technology student from Philippines.I am a highly motivated student and eager to learn about anything, especially tech and business stuff. I'm interested in all things related to computer such as Web Development, Programming and Designing.</p>
 
 <br/>
 <!--- Languages --->
-<h1>💻Stack Techology</h1>
+<h2>💻Stack Techology</h2>
 <img  align ="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img  align ="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img  align ="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoC"/>
