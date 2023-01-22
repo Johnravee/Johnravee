@@ -1,5 +1,4 @@
 <!--- Stats --->
-<img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=Johnravee&show_icons=true&theme=blueberry"/>
 <img align ="left"  width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnravee&layout=compact"/>
 
 
