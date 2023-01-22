@@ -19,7 +19,7 @@
 <hr>
 
 <h1>Contact me on Social Media</h1>
-<a align ="left" target="_blank" href ="[https://mail.google.com/mail/u/0/#compose](https://mail.google.com/mail/?view=cm&fs=1&to=johnravemimayn@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a align ="left" target="_blank" href ="https://mail.google.com/mail/u/lee@example.org/#compose"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a align ="left" target="_blank" href ="https://www.facebook.com/profile.php?id=100086311660925"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a target="_blank" href ="https://www.linkedin.com/in/johrave-mimay-740a06237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
