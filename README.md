@@ -20,7 +20,7 @@
 
 <h1>🔍 Seek me on Social Media :</h1>
 <a align ="left" href ="mailto:johnravemimayn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a align ="left" href ="https://www.facebook.com/profile.php?id=100086311660925" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a align ="left" href ="https://www.facebook.com/profile.php?id=100089257526973" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href ="https://www.linkedin.com/in/johrave-mimay-740a06237/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
