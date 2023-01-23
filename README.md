@@ -14,7 +14,7 @@
 <!--- Stats --->
 <hr>
 
-<img   width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnravee&layout=compact"/>
+<img   width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnravee&layout=compact"/>
 
 <hr>
 
