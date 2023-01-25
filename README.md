@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/johnrave mimay](https://www.linkedin.com/in/johrave-mimay-740a06237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnrave mimay" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100089257526973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnravee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/johrave-mimay-740a06237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnrave mimay" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089257526973" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johnravee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
