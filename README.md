@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnrave</h1>
-<h3 align="center">I am an information Technology student from Philippines.I am a highly motivated student and eager to learn about anything, especially tech and business stuff. I'm interested in all things related to computer such as Web Development, Programming and Designing.</h3>
+<h3 align="center">I am a Philippines-based information technology student who is very motivated and willing to learn about anything, particularly technology and business. I am interested in everything computer-related, including web development, programming, and design.</h3>
 
 - 🌱 I’m currently learning **Nodejs**
 
