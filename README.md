@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnrave</h1>
 <h3 align="center">I am a Philippines-based information technology student who is very motivated and willing to learn about anything, particularly technology and business. I am interested in everything computer-related, including web development, programming, and design.</h3>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://johnravee.github.io/](https://johnravee.github.io/portfolio)
 
