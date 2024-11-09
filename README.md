@@ -1,5 +1,11 @@
+
+<!-- 
 # 💫 About Me:
-I'm a highly driven and dedicated Information Technology student from the Philippines who is passionate about discovering the broad world of technology and business. With a strong interest in computer-related subjects, I'm always looking for ways to expand my knowledge and skills in web development, programming and technology.<br><br>Feel free to contact me on GitHub, and let us work together on fascinating projects that push the frontiers of innovation and creativity.
+I'm a highly driven and dedicated Information Technology student from the Philippines who is passionate about discovering the broad world of technology and business. With a strong interest in computer-related subjects, I'm always looking for ways to expand my knowledge and skills in web development, programming and technology.
+
+Feel free to contact me on GitHub, and let us work together on fascinating projects that push the frontiers of innovation and creativity.
+-->
+
 
 - 👨‍💻 All of my projects are available at [https://johnravee.github.io/](https://johnravee.github.io/portfolio)
 
