@@ -14,7 +14,7 @@ Feel free to contact me on GitHub, and let us work together on fascinating proje
 -->
 <a href="https://app.daily.dev/johnravemimay"><img src="https://api.daily.dev/devcards/v2/6mHo1mD88i9mmNUXbAboY.png?type=wide&r=joo" width="652" alt="John Rave Mimay's Dev Card"/></a>
 
-- 👨‍💻 All of my projects are available at [https://johnravee.github.io/](https://johnravee.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://johnravemimay.vercel.app/](https://johnravemimay.vercel.app/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086311660925) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-rave-mimay-740a06237/)
