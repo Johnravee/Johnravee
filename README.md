@@ -7,12 +7,12 @@ Feel free to contact me on GitHub, and let us work together on fascinating proje
 -->
 
 
-<!-- 
+
 <div align="center">
   <img height="200" src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"  />
 </div>
--->
-<a href="https://app.daily.dev/johnravemimay"><img src="https://api.daily.dev/devcards/v2/6mHo1mD88i9mmNUXbAboY.png?type=wide&r=joo" width="652" alt="John Rave Mimay's Dev Card"/></a>
+
+<!-- <a href="https://app.daily.dev/johnravemimay"><img src="https://api.daily.dev/devcards/v2/6mHo1mD88i9mmNUXbAboY.png?type=wide&r=joo" width="652" alt="John Rave Mimay's Dev Card"/></a> -->
 
 - 👨‍💻 All of my projects are available at [https://johnravemimay.vercel.app/](https://johnravemimay.vercel.app/)
 
