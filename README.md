@@ -18,7 +18,7 @@ Feel free to contact me on GitHub, and let us work together on fascinating proje
 
 ## 🌐 Socials
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/johnravemimay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/johnravemimay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/johnravemimay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/johnravemimay" height="30" width="40" /></a>
 <a href="https://fb.com/https://facebook.com/https://www.facebook.com/profile.php?id=100086311660925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/https://www.facebook.com/profile.php?id=100086311660925" height="30" width="40" /></a>
 </p>
 
