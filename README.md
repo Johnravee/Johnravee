@@ -16,8 +16,11 @@ Feel free to contact me on GitHub, and let us work together on fascinating proje
 
 - 👨‍💻 All of my projects are available at [https://johnravemimay.vercel.app/](https://johnravemimay.vercel.app/)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086311660925) [![LinkedIn](www.linkedin.com/in/johnravemimay)](https://linkedin.com/in/https://www.linkedin.com/in/john-rave-mimay-740a06237/)
+## 🌐 Socials
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/johnravemimay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/johnravemimay" height="30" width="40" /></a>
+<a href="https://fb.com/https://facebook.com/https://www.facebook.com/profile.php?id=100086311660925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/https://www.facebook.com/profile.php?id=100086311660925" height="30" width="40" /></a>
+</p>
 
 
 
